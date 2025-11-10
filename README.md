@@ -5,5 +5,3 @@
 📍 Location: Melbourne  
 🏠 Remote work: 2 days a week  
 🏢 Office work: 3 days a week
-
-See you there! ✌️
