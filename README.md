@@ -1,5 +1,5 @@
 <h2>👋&nbsp;&nbsp;Hey, I'm Alex</h2>
-<h4>Senior Front End Engineer</h4>
+<h4>I'm one of the Senior Front End Engineers at [DotCollective](https://dotcollective.com.au/).</h4>
 
 📍&nbsp;&nbsp;Location: Melbourne<br/>
 🏠&nbsp;&nbsp;Remote work: 2 days a week<br/>
