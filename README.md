@@ -1,8 +1,9 @@
-<h2>👋&nbsp;&nbsp;Hey, I'm Alex</h2>
-<h4>I'm one of the Senior Front End Engineers at [DotCollective](https://dotcollective.com.au/).</h4>
+## 👋 Hey, I'm Alex
 
-📍&nbsp;&nbsp;Location: Melbourne<br/>
-🏠&nbsp;&nbsp;Remote work: 2 days a week<br/>
-🏢&nbsp;&nbsp;Office work: 3 days a week<br/>
+#### A Senior Front End Engineer at [DotCollective](https://dotcollective.com.au/).
 
-See you there!&nbsp;&nbsp;✌️
+📍 Location: Melbourne  
+🏠 Remote work: 2 days a week  
+🏢 Office work: 3 days a week
+
+See you there! ✌️
