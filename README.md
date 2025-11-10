@@ -1,4 +1,4 @@
-## 👋 Hey, I'm Alex
+## 👋&nbsp;&nbsp;Hey, I'm Alex
 
 #### A Senior Front End Engineer at [DotCollective](https://dotcollective.com.au/).
 
